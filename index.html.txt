@@ -5,6 +5,8 @@
 	</head>
 	<body>
 		<p>Hello word!!</p>
+		<p>Hello word bijgevoegd!!</p>
+		
 	</body>
 
 </html>
